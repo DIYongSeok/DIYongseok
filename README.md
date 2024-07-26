@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm DIYongseok who want to bring happiness to world through my work.</h1>
-<h3 align="left">A developer and mechanical engineers from Korea</h3>
+<h1 align="left">Hi 👋, I'm Yongseok, bringing happiness to world through my work.</h1>
+<h3 align="left">A developer and mechanical engineer from Korea</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
