@@ -1,6 +1,6 @@
 <div style="display : flex ; align-items : center; justify-content : center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&size=30&width=530&color=FFFFFF&lines=Welcome+to+Yongseok's+Github!" style="position : absolute ; transform : translateY(-10%)" alt="Typing SVG" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=5222EF&height=300&section=header"/>
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&size=30&width=530&color=FFFFFF&lines=Welcome+to+Yongseok's+Github!" style="position : absolute ; transform : translateY(-10%)" alt="Typing SVG" /> -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=5222EF&height=300&section=header&text=Welcome%20to%20Yongseok's%20Github!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Bringing%20happiness%20to%20world%20through%20my%work&descAlignY=52&descAlign=69&fontColor=fff"/>
 </div>
 
 
@@ -38,10 +38,12 @@ If you want to see more information about me, here is my [**CV 📥**](https://g
 
 ## ⚡ Skills ⚡
 
-  ### 💻 Programming Language
+### 💻 Programming Language
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+
 <br/> 
  
 ### 📚 Stacks  
@@ -52,22 +54,22 @@ If you want to see more information about me, here is my [**CV 📥**](https://g
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
- <br/> 
+<br/> 
   
 ### 🛠 Tools  
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unreal Engine-313131?style=flat-square&logo=Unreal Engine&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white"/>
 
 ### 🎨 Design Tools  
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+
 
  </div>
  
