@@ -1,6 +1,6 @@
 <div style="display : flex ; align-items : center; justify-content : center">
 <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&size=30&width=530&color=FFFFFF&lines=Welcome+to+Yongseok's+Github!" style="position : absolute ; transform : translateY(-10%)" alt="Typing SVG" /> -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=5222EF&height=300&section=header&text=Welcome%20to%20Yongseok's%20Github!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Bring%20happiness%20to%20the%20world%20through%20my%work&descAlignY=52&descAlign=69&fontColor=fff"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=5222EF&height=300&section=header&text=Welcome%20to%20Yongseok's%20Github!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Bring%20happiness%20to%20the%20world%20through%20my%20work&descAlignY=52&descAlign=69&fontColor=fff"/>
 </div>
 
 
