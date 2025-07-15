@@ -21,11 +21,16 @@
 - OCR Preprocessing Intern at CLAB, Samsung Electronics `2019.07 ~ 2019.08`  
   - Contributed to preprocessing pipelines for scanned document OCR using Python and OpenCV.
 
-### ⚡ ExtraCurricular Activity
-- CEO of [SNULIVE](https://snulive.co.kr/career), Online Streaming Service at Seoul National University `2020.09 ~ `  
+### ⚡ Activity
+- CEO of [SNULIVE](https://snulive.co.kr/career), Online Streaming Company at Seoul National University `2020.09 ~ `  
   - operated 300+ live events for official university ceremonies, academic forums.
 - Founder & Developer of [EVENTEASI](https://eventeasi.com), a campus event venue platform `2025.01 ~ `  
   - Designed and developed a web platform to help students browse event venues across Seoul National University.
+- Developer of [Tryot Search App](https://youtu.be/tyVmex5to7w), AI-based Fashion Search App `2023.09 ~ 2023.12`  
+  - Developed a mobile app with GPT-based query refinement and fashion recommendation.  
+  - Served inference model using AWS SageMaker, Lambda, and API Gateway.  
+  - [Design & Implementation](https://github.com/snuhcs-course/swpp-2023-project-team-3/wiki/Design-and-Implementation)
+
 
 
 ### 😄 Interests
