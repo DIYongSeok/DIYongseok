@@ -75,4 +75,4 @@
 ### 🌐 English & Certification
 
 **English**:  
-- TOEIC 820 (2018.09)
+- TOEIC 820 `2018.09`
