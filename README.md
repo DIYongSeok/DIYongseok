@@ -57,9 +57,6 @@ If you want to see more information about me, here is my [**CV 📥**](https://g
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <br/> 
   
 ### 🛠 Tools  
@@ -67,8 +64,10 @@ If you want to see more information about me, here is my [**CV 📥**](https://g
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/SolidWorks-e23b3b?style=flat-square&logoColor=white">
 
 ### 🎨 Design Tools  
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
